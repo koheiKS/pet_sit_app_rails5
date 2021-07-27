@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON *.* TO 'mql_user'@'%';
+FLUSH PRIVILEGES;
